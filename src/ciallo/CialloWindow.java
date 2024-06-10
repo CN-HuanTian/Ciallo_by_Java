@@ -17,6 +17,7 @@ public class CialloWindow extends JFrame {
     add();
     add();
     add();
+    add();
   }
 
   public void add() {
