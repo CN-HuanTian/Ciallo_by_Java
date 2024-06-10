@@ -13,6 +13,7 @@ public class Main {
     for(int i=0;i<6;i++){
       x = new Random().nextInt(16);
       s+=colorList[x];
+      System.out.println("ciallo");
     }
     return s;
   }
